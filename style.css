@@ -1,0 +1,368 @@
+body {
+    margin: auto;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(dieta.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    color: white;
+}
+
+.info {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.log {
+    margin-left: auto;
+    padding: 10px;
+    margin-right: 5px;
+}
+
+.brak_konta {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+
+/* wygląd głównego elementu - ol */
+
+
+/* ol {
+    background-color: #80aaff;
+    font-size: 15px;
+    height: 30px;
+    line-height: 210%;
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 0; */
+
+
+/* display: inline-block; */
+
+
+/* } */
+
+
+/* wygląd wszystkich elementów - a - znajdujących się w elemencie - ol */
+
+
+/*
+ol a {
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+} */
+
+
+/* wygląd elementów - li - wszystkich dzieci elementu - ol */
+
+
+/*
+ol>li {
+    float: left;
+    width: 160px;
+    height: 2em;
+    border-right: 2px solid #2c1b75;
+} */
+
+
+/* wygląd elementów - li - wszystkich dzieci elementu - ol - po najechaniu kursorem myszki na element - li */
+
+
+/*
+ol>li:hover {
+    background-color: #3377ff;
+} */
+
+
+/* wygląd elementu - ul - dziecka elementu - li - będącego dzieckiem elementu - ol - po najechaniu kursorem myszki na element - li */
+
+
+/*
+ol>li:hover>ul {
+    display: block;
+} */
+
+
+/* ------------------------CZĘŚĆ-ROZWIJANA-MENU-POZIOM-1----------------------- */
+
+
+/* wygląd głównych rozwijanych elementów - ul */
+
+
+/*
+ol>li>ul {
+    display: none;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+} */
+
+
+/* wygląd elementu - li - w części rozwijanej */
+
+
+/*
+ol>li>ul>li {
+    background-color: #2c1b75;
+    position: relative;
+    z-index: 80;
+} */
+
+
+/* wygląd elementu - li - w części rozwijanej, po najechaniu kursorem myszki na dany element - li */
+
+
+/*
+ol>li>ul>li:hover {
+    background-color: chocolate;
+}
+
+#openNavigationButton {
+    cursor: pointer;
+    color: white;
+    font-size: 40px;
+    position: relative;
+    padding-left: 10px;
+}
+
+#titleDiv {
+    float: left;
+    margin-left: 0px;
+    color: white;
+    width: 160px;
+    height: 30px;
+}
+
+#closeNavigationButton {
+    top: 0;
+    right: 25px;
+    position: absolute;
+}
+
+#sideNav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    background-color: #1a66ff;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 80px;
+}
+
+#sideNav a {
+    padding: 20px 20px 20px 20px;
+    font-size: 30px;
+    color: white;
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#sideNav a:hover {
+    background-color: #0044cc;
+} */
+
+.content {
+    color: white;
+}
+
+#infoDiv {
+    width: 85%;
+    margin-left: 7%;
+    padding-top: 50px;
+}
+
+.userlogout {
+    width: auto;
+    top: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: 5px;
+}
+
+.userlogout>a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.name {
+    width: 300px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.name>span>a {
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+}
+
+.err>a {
+    text-decoration: none;
+    color: white;
+}
+
+#kafelek {
+    margin: 20px;
+    width: 280px;
+    height: 248px;
+    overflow: hidden;
+    border: 3px solid white;
+    box-shadow: 7px 7px 4px #9494b8;
+    background-color: #3095d3;
+    position: relative;
+    display: inline-block;
+}
+
+.kafelek2 {
+    margin: 20px;
+    width: 200px;
+    height: 175px;
+    overflow: hidden;
+    border: 3px solid white;
+    box-shadow: 7px 7px 4px #9494b8;
+    background-color: #3095d3;
+    position: relative;
+    display: block;
+}
+
+#kafelek img:hover {
+    transition: transform 3s;
+    transform: scale(1.1);
+}
+
+.kafelek2 img:hover {
+    transition: transform 3s;
+    transform: scale(1.1);
+}
+
+
+/* .image {
+    width: 270px;
+    height: 248px;
+    object-fit: cover;
+} */
+
+
+/* .container .image {
+    width: 270px;
+    height: 248px;
+    object-fit: cover;
+} */
+
+.image2 {
+    width: 200px;
+    height: 175px;
+    object-fit: cover;
+}
+
+.napis {
+    position: absolute;
+    text-align: center;
+    width: 270px;
+    bottom: 0;
+    color: white;
+    font-size: 20px;
+    font-family: Times New Roman, Times, serif;
+    background-color: #003366;
+    opacity: 0.8;
+}
+
+.napis2 {
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    bottom: 0;
+    color: white;
+    font-size: 20px;
+    font-family: Times New Roman, Times, serif;
+    background-color: #003366;
+    opacity: 0.8;
+}
+
+.ramka {
+    border: 3px solid gray;
+    font-size: 15px;
+    margin-top: 15%;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: white;
+    background-color: #0000CD;
+    padding: 10px;
+    margin-bottom: 15%;
+}
+
+.exercises-list .exercise-title .title-exercise {
+    display: inline-block;
+    font-size: 24px;
+    font-weight: 300;
+    color: white;
+}
+
+.exercises-list {
+    display: block;
+    margin-top: 25px;
+}
+
+.exercises-list .exercise-description {
+    display: inline-block;
+    width: calc(100% - 200px);
+    min-height: 154px;
+    line-height: 154px;
+    border-radius: 4px;
+    transition: all .15s ease-in;
+    -webkit-transition: all .15s ease-in;
+    -webkit-box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.1);
+}
+
+.exercises-list .exercise-img {
+    float: left;
+    width: 200px;
+}
+
+.exercises-list .exercise-img img {
+    display: inline-block;
+    max-width: 100%;
+    border-radius: 4px;
+}
+
+.exercises-list .exercise-title {
+    display: inline-block;
+    line-height: normal;
+    vertical-align: middle;
+    padding: 10px 20px;
+}
+
+.exercises-list .title-exercise {
+    display: block;
+    /* display: inline-block; */
+    font-size: 24px;
+    font-weight: 300;
+    color: white;
+}
+
+.exercises-list .atlas_exercise {
+    display: block;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    min-height: 150px;
+    border-radius: 4px;
+    transition: all .15s ease-in;
+    -webkit-transition: all .15s ease-in;
+}
