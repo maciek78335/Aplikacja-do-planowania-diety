@@ -7,7 +7,6 @@
 ![br_wznosy_ramion](https://user-images.githubusercontent.com/73504119/132205325-c0b17868-2f04-4033-b8fc-084f58293d05.jpg)
 ![br_wycisk_hantle](https://user-images.githubusercontent.com/73504119/132205341-ce23a4fe-63a2-497b-aa94-56508438f03c.jpg)
 ![br_wznosy_wyciag](https://user-images.githubusercontent.com/73504119/132205344-b34cae31-78ae-49d1-89ae-67c4d5de7615.jpg)
-
 ![biceps](https://user-images.githubusercontent.com/73504119/132206794-7f3ca427-1d25-4a59-bff3-793e770e5dd7.jpg)
 ![biceps_mlotkowy_lawka](https://user-images.githubusercontent.com/73504119/132206799-6befa66f-e84d-48e3-9159-788cb396ca04.jpg)
 ![biceps_wyciag_dolny](https://user-images.githubusercontent.com/73504119/132206801-9207d720-1651-43cc-a4c9-23946b60970a.jpg)
