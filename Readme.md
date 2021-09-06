@@ -1,1 +1,10 @@
 ![barki](https://user-images.githubusercontent.com/73504119/132203877-c7dcc1c3-9744-4e7e-8953-7cca590cef59.jpg)
+![br_unoszenie_gryfu](https://user-images.githubusercontent.com/73504119/132205314-1424af63-6ef5-409f-bf7c-dd4d4af66821.jpg)
+![br_unoszenie_ramion_w_oparciu](https://user-images.githubusercontent.com/73504119/132205318-7d25f375-6cce-4288-a96e-22dd95945ed9.jpg)
+![br_unoszenie_w_bok](https://user-images.githubusercontent.com/73504119/132205320-3f5de901-3755-4f08-b773-7ec8cf9ca52a.jpg)
+![br_wycisk_nad_glowe](https://user-images.githubusercontent.com/73504119/132205322-baa6a297-cf24-4a16-8497-df3a90554b1f.jpg)
+![br_wznosy_hantlami_w_bok](https://user-images.githubusercontent.com/73504119/132205324-b4e75d89-8421-4123-9217-4bc986a1c283.jpg)
+![br_wznosy_ramion](https://user-images.githubusercontent.com/73504119/132205325-c0b17868-2f04-4033-b8fc-084f58293d05.jpg)
+![br_wycisk_hantle](https://user-images.githubusercontent.com/73504119/132205341-ce23a4fe-63a2-497b-aa94-56508438f03c.jpg)
+![br_wznosy_wyciag](https://user-images.githubusercontent.com/73504119/132205344-b34cae31-78ae-49d1-89ae-67c4d5de7615.jpg)
+
